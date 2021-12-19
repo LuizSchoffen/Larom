@@ -1,0 +1,191 @@
+/*snsnsn*/
+
+header, section{
+    margin: auto;  	
+	width: 100%;
+    padding: 0 10vw;
+    box-sizing: border-box;  	
+}
+
+body{
+    background: url("../img/productone.png");
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+    position: absolute;
+}
+
+header .logolarom {
+    width: 200px;
+}
+
+header nav ul{
+    display: flex;
+    justify-content: space-between;
+}
+
+header nav ul li{
+padding: 4vw 30px;
+}
+
+header nav ul li a{
+    color: #fff;
+}
+
+header nav ul li a .img-header{
+    width: 50px;
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+    background:rgba(255,255,255,0.4);
+}
+
+section.one{
+    color: white;
+
+
+}
+
+h3{
+    margin-top: 150px;
+    font-size: 60px;
+    font-family: 'Righteous', cursive;
+    padding: 0 0 0 55%;
+}
+
+h6 {
+    margin-top: 100px;
+    font-size: 40px;
+    font-family: 'Righteous', cursive;
+    padding: 0 0 0 55%;
+}
+
+section.two {
+    margin-top: 300px;
+}
+
+img.banner2 {
+    width: 800px;
+    border-radius: 20px;
+    float: left;
+}
+
+section.two h4{
+    margin-top: 150px;
+    font-size: 40px;
+    font-family: 'Righteous', cursive;
+    margin-left: 57%;
+}
+
+ul.ul2 li{
+    list-style: disc;
+    font-family: 'Righteous', cursive;
+    margin-top: 20px;
+    margin-left: 62%;
+    font-size: 35px;
+}
+
+
+section.three {
+    margin-top: 160px;
+    background: url("../img/essential\ oil\ one.png");
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+    height: 800px;
+
+}
+
+section.three h4{
+    font-size: 60px;
+    font-family: 'Righteous', cursive;
+    padding-top: 8%;
+
+}
+
+section.three h5{
+    font-size: 35px;
+    font-family: 'Righteous', cursive;
+    margin-top: 70px;
+
+}
+
+section.four nav ul{
+    display: flex;
+    justify-content: space-between;
+}
+
+nav ul li img.img-pdt{
+    width: 400px;
+    border-radius: 30px;
+}
+
+nav ul li  button.btn-pdt{
+    width: 400px;
+    height: 50px;
+    background-color: #3A3838;
+    border-radius: 20px;
+    color: #fff;
+    text-decoration: none;
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Righteous', cursive;
+    display: block;
+    text-align: center;
+    margin: 0 auto;
+}
+
+nav ul li h2.txt-pdt{
+    font-size: 32px;
+    font-family: 'Righteous', cursive;
+    color: #3A3838;
+    text-decoration: none;
+    display: block;
+    text-align: center;
+    margin: 0 auto;
+}
+
+section.five {
+    margin-top: 50px;
+    background: url("../img/car\ twhrehd.png");
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+    height: 680px;
+}
+
+section.five h3{
+    margin-top: 50px;
+    font-size: 60px;
+    font-family: 'Righteous', cursive;
+    padding: 0 0 0 55%;
+    color: #fff;
+}
+
+section.five h6 {
+    margin-top: 100px;
+    font-size: 40px;
+    font-family: 'Righteous', cursive;
+    padding: 0 0 0 55%;
+    color: #fff;
+}
+
+section.six ul.ul6 li{
+    list-style: disc;
+    font-family: 'Righteous', cursive;
+    margin-top: 20px;
+    margin-left: 62%;
+    font-size: 35px;
+}
+
+section.six h4{
+    margin-top: 50px;
+    font-size: 40px;
+    font-family: 'Righteous', cursive;
+    margin-left: 57%;
+}
+
+section.six img{
+    width: 800px;
+    border-radius: 20px;
+    float: left;
+}
